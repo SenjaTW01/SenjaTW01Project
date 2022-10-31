@@ -1,4 +1,4 @@
-kami#include <iostream.h>
+#include <iostream.h>
 
 #include <stdio.h>
 
